@@ -9,7 +9,7 @@ node_modules
 # IDE project config
 .idea
 
-/cjs
-/umd
-/es
+# /cjs
+# /umd
+# /es
 examples/public
