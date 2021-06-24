@@ -10,4 +10,4 @@ export {default as configure} from './configure';
 
 export {default as getApplicationKeyMap} from './getApplicationKeyMap';
 export {default as recordKeyCombination} from './recordKeyCombination';
-
+export {default as KeyEventManager} from './lib/KeyEventManager';
